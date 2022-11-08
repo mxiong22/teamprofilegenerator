@@ -1,0 +1,25 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ 
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxiong22/teamprofilegenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mxiong22/teamprofilegenerator/issues"
+  },
+  "homepage": "https://github.com/mxiong22/teamprofilegenerator#readme",
+  "dependencies": {
+    "inquirer": "^6.5.0",
+    "jest": "^29.2.2"
+  }
+}
